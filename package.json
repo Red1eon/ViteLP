@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Red1eon.github.io/Lpv2/",
+  "homepage": "https://Red1eon.github.io/ViteLP/",
   "name": "trailwindcss4",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist --repo https://red1eon_TOKEN@github.com/Red1eon/Lpv2.git"
+    "deploy": "gh-pages -d dist --repo https://red1eon_TOKEN@github.com/Red1eon/ViteLP.git"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.4",

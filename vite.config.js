@@ -10,5 +10,5 @@ export default defineConfig({
     
     react()],
   
-    base:"/Lpv2/",
+    base:"/ViteLP/",
 })
