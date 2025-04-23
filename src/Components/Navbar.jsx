@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
 export const Navbar = () => {
     return (
@@ -8,6 +8,7 @@ export const Navbar = () => {
             <Link to="/" className="font-mono text-xl font-bold text-white">
             Red1eon<span className="text-blue-500">不動産</span>
             </Link>
+          {/* You can add a profile or settings icon here later if needed */}
         </div>
         </div>
     </nav>
