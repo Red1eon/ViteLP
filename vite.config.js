@@ -9,5 +9,6 @@ export default defineConfig({
     tailwindcss(),
     
     react()],
-    base:"/LP-vite-react/",
+  
+    base:"/ViteLP/",
 })
